@@ -7,3 +7,9 @@ Whereas DevOps fill the gap between development team and operations where any va
 o	CI is defined as a process to integrate any new or modified piece of code by following Unit Tests, Analysis and Coverage before it is stagged. 
 o	Continuous Delivery is the next stage of Continuous integration where the feature is added to application in test / dev environment. Once tested successfully and approved for change, the push to production is carried out manually.
 o	Once the CI/CD process is completed, Continuous Deployment is carried out to push the changes to Production. This is an automated process and does not involve any manual interaction from user to make changes from stagging to production
+==========================================
+•	What are the benefits of Cloud Computing
+o	Application Scaling
+o	Costs Reduction
+o	No Physical Infrastructure. 
+o	Focus on Application and not on the underlying Infrastructure.
