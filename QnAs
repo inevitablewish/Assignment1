@@ -1,0 +1,4 @@
+Answer the following questions in a Readme of a Git Repo and each answer should be in a separate commit, and host this repo on Github Pages
+•	Agile vs DevOps
+o	Agile fills the gap between customer and project delivery team where multiple small to medium features are being build concurrently. This methodology helps to get quick traction on errors / failures as it recursively being tested by the customer.
+Whereas DevOps fill the gap between development team and operations where any value addition, modification, upgrades or updates to the application are carried out by following best practices. These practices define the DevOps processes.
