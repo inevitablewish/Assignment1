@@ -13,3 +13,16 @@ o	Application Scaling
 o	Costs Reduction
 o	No Physical Infrastructure. 
 o	Focus on Application and not on the underlying Infrastructure.
+==========================================
+•	Difference b/w Git & Github
+o	Git is a Version Control System. This is a tool offered by GitHub
+o	GitHub is service to host code repositories.
+•	Stages of Git
+o	Working Directory
+o	Stagging
+o	Local Repository
+o	Remote Repository.
+•	3 methods of git reset?
+o	Soft
+o	Mized
+o	Hard
