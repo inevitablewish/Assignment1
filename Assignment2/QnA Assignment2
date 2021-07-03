@@ -1,0 +1,12 @@
+docker network create assignment2
+docker container run -d --net assignment2 --publish 9090:80 --name assignment2 nginx
+docker container exec it assignment2 /bin/bash
+apt-get update
+apt-get install iputils-ping
+apt-get install vim
+cd usr/share/nginx/html/
+cat index.html
+vim index.html (Changed the Heading)
+saved and run the app through localhost as localhost:9090 
+
+docker container logs assignment2
